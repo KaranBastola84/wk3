@@ -21,6 +21,11 @@ namespace wk3gnment
             elseSwitch t3 = new();
             t3.ageCheck();
             t3.dayOfWeekSwitch();
+
+            loops t4 = new();
+            t4.calculateSum();
+            t4.printNumbers();
+            t4.sumofArray();
         }
     }
 }
