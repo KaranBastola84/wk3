@@ -17,6 +17,10 @@ namespace wk3gnment
 
             null_operations t2 = new();
             t2.NullCheck();
+
+            elseSwitch t3 = new();
+            t3.ageCheck();
+            t3.dayOfWeekSwitch();
         }
     }
 }
