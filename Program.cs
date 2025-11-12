@@ -14,6 +14,9 @@ namespace wk3gnment
             t1.Multiply();
             t1.Divide();
             t1.OddEvenFinder();
+
+            null_operations t2 = new();
+            t2.NullCheck();
         }
     }
 }
