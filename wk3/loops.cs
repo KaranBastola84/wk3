@@ -1,6 +1,6 @@
 namespace wk3gnment.wk3
 {
-    public class loops
+    public class Loops
     {
         public void calculateSum()
         {

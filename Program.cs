@@ -22,7 +22,7 @@ namespace wk3gnment
             t3.ageCheck();
             t3.dayOfWeekSwitch();
 
-            loops t4 = new();
+            Loops t4 = new();
             t4.calculateSum();
             t4.printNumbers();
             t4.sumofArray();
