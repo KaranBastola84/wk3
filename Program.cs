@@ -15,10 +15,10 @@ namespace wk3gnment
             t1.Divide();
             t1.OddEvenFinder();
 
-            null_operations t2 = new();
+            Null_operations t2 = new();
             t2.NullCheck();
 
-            elseSwitch t3 = new();
+            ElseSwitch t3 = new();
             t3.ageCheck();
             t3.dayOfWeekSwitch();
 

@@ -1,6 +1,6 @@
 namespace wk3gnment.wk3
 {
-    public class null_operations
+    public class Null_operations
     {
         // Declare variables
         string? username = null;

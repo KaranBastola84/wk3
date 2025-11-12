@@ -1,6 +1,6 @@
 namespace wk3gnment.wk3
 {
-    public class elseSwitch
+    public class ElseSwitch
     {
         public void ageCheck()
         {
