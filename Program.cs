@@ -26,6 +26,10 @@ namespace wk3gnment
             t4.calculateSum();
             t4.printNumbers();
             t4.sumofArray();
+
+            TryCatch t5 = new();
+            t5.NumCheck();
+            t5.AskPasswords();
         }
     }
 }
